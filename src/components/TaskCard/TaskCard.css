@@ -1,0 +1,43 @@
+.Task-card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(116, 113, 111);
+    width: 48vw;
+    margin: 10px auto;
+    padding: 5px 20px;
+    border-radius: 8px;
+
+
+}
+
+.titleCard{
+     font-weight: bold;
+    color: rgb(230, 193, 32);
+    text-decoration: line-through;
+    
+  
+}
+
+.CardBtn{
+     margin: 5px 0px;
+     font-weight: bold;
+     width: 80px;
+ 
+    
+    
+    }
+
+   
+
+    span{
+        /* border:4px solid blue; */
+        /* background-color: #E0EDB5; */
+        width:300px;
+        word-break: break-all;
+        padding: 5px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: white;
+        font-size: 20px;
+       
+    }

@@ -1,0 +1,17 @@
+.add-continer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(66, 59, 59);
+    border: 1px solid #4A7000;
+    border-radius: 15px ;
+    width: 50vw;
+    margin: 10px auto;
+    height: 65px;
+}
+
+.input-add{
+    width: 40vw;
+    margin: 0 10px;
+}
+.addBtn{background-color: grey ;}
